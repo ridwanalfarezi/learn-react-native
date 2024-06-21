@@ -2,12 +2,16 @@
 
 ## 1. Aora
 
-Aora adalah tempat untuk berbagi prompt video yang dibuat menggunakan AI seperti Sora AI.
+Aora is a platform for sharing video prompts created using AI like Sora AI.
 
-**Source:** JS Mastery
+Tech Stack: React Native and Appwrite.
+
+**Source:** [JS Mastery](https://youtu.be/ZBCUegTZF7M?si=4YcU2JGlj4VL6USu)
 
 ## 2. Profile Card
 
-Mobile Version from RnB Profile Card Web App
+Mobile Version from RnB Profile Card Web App.
+
+Tech Stack: MongoDB, ExpressJS, React Native and NodeJS.
 
 **Source:** [Profile Card](https://rnb-profile-card.vercel.app/)
